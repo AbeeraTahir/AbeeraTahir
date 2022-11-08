@@ -19,5 +19,5 @@ I am currently learning Full-Stack Web Development
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/abeera-tahir-961893176/" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" /></a>
-<a href="https://twitter.com/AbeeraTahir8" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/abeera-tahir-961893176/" target="__blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/AbeeraTahir8" target="__blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" /></a>
