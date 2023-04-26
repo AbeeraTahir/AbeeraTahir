@@ -1,23 +1,38 @@
-# Hi there 👋 I'm Abeera
+# Hi there 👋 I'm Abeera, a Full-Stack Web Developer.
 
-I am currently learning Full-Stack Web Development
+## About Me
 
 - 👩‍🎓 Graduated in Computer Science
 - 🌱 Currently enrolled at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
-- ❤️ Love to work with **HTML | CSS | JS**
+- ❤️ Love to work with **JS | React | RoR**
+- 💻 Passionate about building dynamic and responsive web applications
+- 🚀 Eager to learn new technologies
+- 🌎 Collaborating remotely with developers from various locations
 - 📫 How to reach me: **abeeratahir2018@gmail.com**
 
+</br>
+
+## Tech Stack 🛠
+<a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
+<a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
+<a href="https://redux.js.org/"><img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="redux" /></a>
+<a href="https://www.postgresql.org/"><img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt="postgresql" /></a>
+<a href="https://www.ruby-lang.org/en/"><img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt="ruby" /></a>
+<a href="https://rubyonrails.org/"><img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt="ror" /></a>
+
+</br>
+
+## Connect with me 🤝
+<a href='https://www.linkedin.com/in/abeera-tahir/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="linkedin" /></a>
+<a href='https://twitter.com/AbeeraTahir8'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt="twitter" /></a>
+<a href="mailto:abeeratahir2018@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="gmail" /></a>
+
+</br>
+
+## GitHub Stats 🚀
 <img src="https://komarev.com/ghpvc/?username=AbeeraTahir" alt="abeeratahir">
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=AbeeraTahir)](https://github.com/AbeeraTahir/github-readme-stats)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbeeraTahir" alt="abeeratahir" />
-
-### Languages:
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-### Connect with me:
-<a href="https://www.linkedin.com/in/abeera-tahir-961893176/" target="__blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" /></a>
-<a href="https://twitter.com/AbeeraTahir8" target="__blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" /></a>
