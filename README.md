@@ -8,7 +8,6 @@
 - 💻 Passionate about building dynamic and responsive web applications
 - 🚀 Eager to learn new technologies
 - 🌎 Collaborating remotely with developers from various locations
-- 📫 How to reach me: **abeeratahir2018@gmail.com**
 
 </br>
 
