@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abeera, a Full-Stack Web Developer.
+# Hi there 👋 I'm Abeera Tahir, a Full-Stack Web Developer.
 
 ## About Me
 
