@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 👩‍🎓 Graduated in Computer Science
-- 🌱 Currently enrolled at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
-- ❤️ Love to work with **JS | React | RoR**
+- 🎓 Graduated in Computer Science
+- 👩‍🎓 Currently enrolled at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
+- ❤️ Love to work with **JS | React | Redux | RoR**
 - 💻 Passionate about building dynamic and responsive web applications
 - 🚀 Eager to learn new technologies
 - 🌎 Collaborating remotely with developers from various locations
@@ -33,6 +33,6 @@
 ## GitHub Stats 🚀
 <img src="https://komarev.com/ghpvc/?username=AbeeraTahir" alt="abeeratahir">
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=AbeeraTahir)](https://github.com/AbeeraTahir/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=AbeeraTahir&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true" alt="github-stats" />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbeeraTahir" alt="abeeratahir" />
