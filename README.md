@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Abeera Tahir, a Full-Stack Web Developer.
+# Hi there 👋 I'm Abeera Tahir, a Software Developer.
 
 ## About Me
 
 - 🎓 Graduated in Computer Science
 - 👩‍🎓 Currently enrolled at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
 - ❤️ Love to work with **JS | React | Redux | RoR**
-- 💻 Passionate about building dynamic and responsive web applications
+- 💻 Passionate about building dynamic and user-friendly web applications
 - 🚀 Eager to learn new technologies
 - 🌎 Collaborating remotely with developers from various locations
 
