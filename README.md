@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abeera Tahir, a Software Developer.
+# Hi there 👋 I'm Abeera Tahir, a Software Developer 👩‍💻
 
 ## About Me
 
