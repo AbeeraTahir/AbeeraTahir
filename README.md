@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 Graduated in Computer Science
-- 👩‍🎓 Currently enrolled at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
+- 👩‍🎓 Software developer at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
 - ❤️ Love to work with **JS | React | Redux | RoR**
 - 💻 Passionate about building dynamic and user-friendly web applications
 - 🚀 Eager to learn new technologies
