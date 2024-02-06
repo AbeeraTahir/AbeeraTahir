@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 👩‍🎓 Bachelor's Degree holder in Computer Science | 🎓 [Microverse](https://www.microverse.org/?grsf=nnlhmv) graduate
+- 👩‍🎓 Bachelor's Degree holder in Computer Science | [Microverse](https://www.microverse.org/?grsf=nnlhmv) graduate 🎓
 - ❤️ Love to work with **JS | TS | React | Nextjs | Redux**
 - 💻 Passionate about building dynamic and user-friendly web applications
 - 🚀 Eager to learn new technologies
