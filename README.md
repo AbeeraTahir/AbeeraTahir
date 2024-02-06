@@ -2,9 +2,8 @@
 
 ## About Me
 
-- 🎓 Graduated in Computer Science
-- 👩‍🎓 Software developer at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
-- ❤️ Love to work with **JS | React | Redux | RoR**
+- 👩‍🎓 Bachelor's Degree holder in Computer Science | 🎓 Microverse[Microverse](https://www.microverse.org/?grsf=nnlhmv) Graduate
+- ❤️ Love to work with **JS | TS | React | Nextjs | Redux**
 - 💻 Passionate about building dynamic and user-friendly web applications
 - 🚀 Eager to learn new technologies
 - 🌎 Collaborating remotely with developers from various locations
@@ -12,10 +11,13 @@
 </br>
 
 ## Tech Stack 🛠
-<a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
+<a href="https://www.typescriptlang.org/"><img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' alt="typescript" /></a>
 <a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
+<a href="https://nextjs.org/"><img src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white' alt="nextjs" /></a>
 <a href="https://redux.js.org/"><img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="redux" /></a>
+<a href="https://tailwindcss.com/"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="tailwindcss" /></a>
+<a href="https://www.mongodb.com/"><img src='https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white' alt="mongodb" /></a>
 <a href="https://www.postgresql.org/"><img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt="postgresql" /></a>
 <a href="https://www.ruby-lang.org/en/"><img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt="ruby" /></a>
 <a href="https://rubyonrails.org/"><img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt="ror" /></a>
